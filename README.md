@@ -1,6 +1,6 @@
 # Deep Q-Learning Implementation for Grid World Environment
 
-This project implements Deep Q-Learning (DQN) to train an agent to navigate a grid world environment. The agent learns to maximize its cumulative reward by interacting with the environment and updating its knowledge using a neural network. The main components of the project are described below:
+This project implements Deep Q-Network (DQN) to train an agent to navigate a grid world environment. The agent learns to maximize its cumulative reward by interacting with the environment and updating its knowledge using a neural network. The main components of the project are described below:
 
 ## Environment Setup
 
